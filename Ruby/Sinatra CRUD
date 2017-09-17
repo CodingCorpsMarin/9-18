@@ -1,0 +1,15 @@
+
+Competencies
+
+4 basic functions of a persistent database Create Read Update Delete
+Almost all applications with databases will have this functionality
+REST (Representational State Transfer) is a standardized practice for HTTP syntax that optimizes scalability, performance, and modularity
+REST pairs very well with CRUD functions
+For web apps, RESTful routes are taken care of in the controller
+In Sinatra, CRUD commands take the form of routes
+Routes are declared in a clear and concise syntax   
+
+Applications
+Understand concepts of CRUD and write RESTful routes
+
+http://www.restular.com/
